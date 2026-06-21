@@ -12,7 +12,7 @@ I complement my profile with knowledge in marketing consulting and business stra
 <h2>Skills</h2>
 <br/>
 <b>Front-End Development:</b>
-<br/>
+
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -23,7 +23,7 @@ I complement my profile with knowledge in marketing consulting and business stra
 
 <br/>
 <b>Frameworks:</b>
-<br/>
+
   ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -35,7 +35,7 @@ I complement my profile with knowledge in marketing consulting and business stra
 <p align="center">
 <a href="https://github.com/ChristianCubas">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChristianCubas"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChristianCubas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 <br/>
